@@ -16,7 +16,7 @@ const axios = require("axios")
 
 
 //=============================================
-const channel_id = "put channel ID here"
+const channel_id = "1310963028434620426"
 //=============================================
 
 
